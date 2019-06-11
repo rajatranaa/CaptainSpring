@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.rana.model.Employee;
-import com.websystique.springmvc.dao.EmployeeDao;
+import com.rana.dao.EmployeeDao;
 
 @Service("employeeService")
 @Transactional
