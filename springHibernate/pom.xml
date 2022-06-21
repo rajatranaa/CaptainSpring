@@ -16,7 +16,7 @@
         <tika.version>1.12</tika.version>
         <slf4j.version>1.7.12</slf4j.version>
         <hibernate.version>5.1.0.Final</hibernate.version>
-        <mysql-connector.version>5.1.38</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
         <c3p0.version>0.9.5.2</c3p0.version>
         <joda-time.version>2.9.1</joda-time.version>
         <testng.version>6.9.4</testng.version>
