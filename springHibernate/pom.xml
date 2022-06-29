@@ -684,11 +684,11 @@
             <version>7.0.4</version>
         </dependency>
         <!-- <dependency> <groupId>org.apache.pdfbox</groupId> <artifactId>pdfbox</artifactId> 
-        <version>1.8.13</version> </dependency> -->
+        <version>1.8.16</version> </dependency> -->
         <dependency>
             <groupId>org.apache.pdfbox</groupId>
             <artifactId>pdfbox</artifactId>
-            <version>1.8.13</version>
+            <version>1.8.16</version>
         </dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.websocket/javax.websocket-api -->
